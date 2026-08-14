@@ -1,4 +1,4 @@
-![Banner](imagens/Copiloto_20260813_213031.png)
+![Banner](Copiloto_20260813_213031.png)
 
 
 
