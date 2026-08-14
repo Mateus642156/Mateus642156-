@@ -41,6 +41,5 @@ Formado em **Algoritmos e Lógica de Programação**, com foco em desenvolviment
 
 ## 📫 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mateus-henrique-de-lima-7375a6309)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/seuusuario)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+
 
