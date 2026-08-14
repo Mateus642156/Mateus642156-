@@ -1,4 +1,5 @@
-![Banner](Copilot_20260813_213031)
+![Banner](Copiloto_20260813_213031.png)
+
 
 
 # Olá, boas-vindas ao meu perfil GitHub 👋
