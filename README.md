@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="imagens/Copiloto_20260813_213031.png" alt="Banner" width="100%">
+  <img src="Copilot_20260813_213031.png" alt="Banner" width="100%">
 </p>
+
 
 
 
