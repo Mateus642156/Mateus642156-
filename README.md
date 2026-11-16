@@ -1,6 +1,4 @@
-<!-- <p align="center">
-  <img src="Copilot_20260813_213031.png" alt="Banner" width="100%">
-</p> -->
+
 <p align="center">
   <img src="Designer (4).png" alt="Banner" width="100%">
 </p>
@@ -14,8 +12,8 @@
 # Olá, boas-vindas ao meu perfil GitHub 👋
 
 ## 🚀 Sobre mim
-Sou desenvolvedor **Front-End** apaixonado por tecnologia, inovação e aprendizado contínuo.  
-Atualmente estudo **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul**, buscando unir criatividade e eficiência na construção de soluções digitais.  
+Sou Desenvolvedor Front-End apaixonado por tecnologia, inovação e desenvolvimento de soluções web.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul**, buscando unir criatividade e eficiência na construção de soluções digitais.  
 Formado em **Algoritmos e Lógica de Programação**, com foco em desenvolvimento web utilizando **HTML, CSS, JavaScript, React e TypeScript**.
 
 ---
